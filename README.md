@@ -1,2 +1,3 @@
 # stat-uicf
-research into user-item collaborative filtering
+Research into user-item collaborative filtering recommendations.
+Refer to Jupyter notebook for documentation.
